@@ -25,11 +25,15 @@ The purpose of this collection is to practice core programming concepts, logic b
 
 ### For C
 
-gcc filename.c -o Myexe ./Myexe
+gcc filename.c -o Myexe 
+for linux : ./Myexe
+for windoes : Myexe.exe
 
 ### For C++
 
-g++ filename.cpp -o Myexe ./Myexe
+g++ filename.cpp -o Myexe 
+for linux : ./Myexe
+for Windows : Myexe.exe
 
 ### For Java
 
